@@ -1,0 +1,7 @@
+{
+  "dwi": "dwi.nii.gz",
+  "bvecs": "bvecs.bvecs",
+  "bvals": "bvals.bvals",
+  "sbref": "sbref.nii.gz",
+  "sbref_json": "sbref_json.json"
+}
